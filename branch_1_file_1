@@ -1,3 +1,8 @@
 line 1
+<<<<<<< HEAD
 line from branch 1
 line 3
+=======
+line from branch_1
+lel
+>>>>>>> branch_2
